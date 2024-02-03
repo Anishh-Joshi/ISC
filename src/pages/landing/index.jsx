@@ -8,7 +8,7 @@ import { MdCheck } from 'react-icons/md';
 import { FiStar } from 'react-icons/fi';
 import { FaLinkedinIn } from 'react-icons/fa';
 import { HiCursorClick } from 'react-icons/hi'
-import Testimonials from '../../Components/testimonials';
+import Testimonials from '../../component/testimonials';
 import { testimonialData } from '../../static/testimonial';
 
 function LandingPage() {

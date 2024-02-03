@@ -1,5 +1,5 @@
 import React from 'react'
-import IdCard from '../../Components/id-card'
+import IdCard from '../../component/id-card'
 import { FaUserGraduate } from 'react-icons/fa'
 import certificate1 from '../../assets/logos/certification.jpg'
 

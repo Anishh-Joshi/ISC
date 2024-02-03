@@ -1,6 +1,6 @@
 import React from 'react'
 import { FaProjectDiagram, FaQuoteLeft } from 'react-icons/fa';
-import Applications from '../../Components/scrollable-view';
+import Applications from '../../component/scrollable-view';
 import Kupal1 from "../../assets/Screenshots/KupalLogin.png";
 import Kupal2 from "../../assets/Screenshots/KupalTimeline.png";
 import Kupal3 from "../../assets/Screenshots/KupalPosts.png";
@@ -8,11 +8,11 @@ import Sanity1 from "../../assets/Screenshots/SanityLogin.png";
 import Sanity2 from "../../assets/Screenshots/Sanitytimelline.png";
 import Sanity3 from "../../assets/Screenshots/SanityReport.png";
 import Footy from "../../assets/Screenshots/ISC.png";
-import Testimonials from '../../Components/testimonials';
+import Testimonials from '../../component/testimonials';
 import Banner1 from '../../assets/logos/flutter.png'
 import Banner3 from "../../assets/logos/banner3.png";
 import Asset302 from "../../assets/images/homepage/banner-assets/03/1.webp";
-import KupalBanner from '../../Components/kupal-banner/banner1';
+import KupalBanner from '../../component/kupal-banner/banner1';
 
 
 function Projects() {

@@ -1,6 +1,6 @@
 import React from 'react'
 import { testimonialData } from '../../static/testimonial'
-import Testimonials from '../../Components/testimonials/index.jsx'
+import Testimonials from '../../component/testimonials'
 import { SiDialogflow } from 'react-icons/si'
 
 function TestimonialPage() {
