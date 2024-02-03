@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
-import Banner1 from "../../assets/Screenshots/KupalLogin.png";
-import Skel from "../../assets/Screenshots/skeleton.png";
-import Skell from "../../assets/Screenshots/skell.png";
+import Banner1 from "../../assets/screenshots/KupalLogin.png";
+import Skel from "../../assets/screenshots/skeleton.png";
+import Skell from "../../assets/screenshots/skell.png";
 import Flutter from "../../assets/logos/flutter.png";
 import Banner3 from "../../assets/logos/banner3.png";
 import Asset302 from "../../assets/images/homepage/banner-assets/03/1.webp";
