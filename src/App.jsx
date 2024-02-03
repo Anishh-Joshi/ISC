@@ -1,19 +1,24 @@
+
 import './App.css'
-import Footer from './components/footer'
-import Navbar from './components/navbar'
-import Landing from './pages/landing'
-import BucketPackingPage from './pages/make-bucket'
-import ProductBannerOccasion from './pages/occasion-page'
+import Footer from './Components/footer'
+import KupalBanner from './Components/kupal-banner/banner1'
+import Education from './pages/education'
+import LandingPage from './pages/landing'
+import Projects from './pages/projects'
+import TestimonialPage from './pages/testimonial-page'
 
 function App() {
+
   return (
-    <div className='font-main no-scrollbar'>
-      <Navbar />
-      <Landing />
-      <ProductBannerOccasion/>
-      <BucketPackingPage/>
-      <Footer/>
-    </div>
+
+   <>
+    <LandingPage />
+    <Projects/>
+    <Education/>
+    <TestimonialPage/>
+    <Footer/>
+   </>
+
   )
 }
 

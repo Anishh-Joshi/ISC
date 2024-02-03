@@ -1,0 +1,8 @@
+.custom-plus {
+    @apply before:content-['+'] before:font-bold before:text-blue-500 before:pr-4;
+  }
+  
+  .custom-left-icon-applications {
+    @apply hidden md:block relative z-10 before:absolute before:block before:content-[''] before:w-[2px] before:h-[100%] before:bg-gray-200 before:top-[0%] before:left-[50%] before:translate-x-[-50%] before:-z-10;
+  }
+  
