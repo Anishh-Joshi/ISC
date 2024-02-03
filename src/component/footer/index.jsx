@@ -4,8 +4,6 @@ import { BsDiscord, BsFacebook, BsGithub, BsInstagram, BsLinkedin, BsTwitter } f
 
 function Footer() {
     return (
-
-
         <footer className="w-screen p-16">
             <div className="">
                 <div className="md:flex md:justify-between">
