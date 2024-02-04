@@ -1,17 +1,15 @@
 import React from 'react'
 import { FaProjectDiagram, FaQuoteLeft } from 'react-icons/fa';
 import Applications from '../../component/scrollable-view';
-import Kupal1 from "../../assets/screenshots/KupalLogin.png";
-import Kupal2 from "../../assets/screenshots/KupalTimeline.png";
-import Kupal3 from "../../assets/screenshots/KupalPosts.png";
-import Sanity1 from "../../assets/screenshots/SanityLogin.png";
-import Sanity2 from "../../assets/screenshots/Sanitytimelline.png";
-import Sanity3 from "../../assets/screenshots/SanityReport.png";
+import Kupal1 from "../../assets/screenshots/kupallogin.png";
+import Kupal2 from "../../assets/screenshots/kupaltimeline.png";
+import Kupal3 from "../../assets/screenshots/kupalpost.png";
+import Sanity1 from "../../assets/screenshots/sanitylogin.png";
+import Sanity2 from "../../assets/screenshots/sanitytimeline.png";
+import Sanity3 from "../../assets/screenshots/sanityreport.png";
 import Footy from "../../assets/screenshots/ISC.png";
 import Testimonials from '../../component/testimonials';
 import Banner1 from '../../assets/logos/flutter.png'
-import Banner3 from "../../assets/logos/banner3.png";
-import Asset302 from "../../assets/images/homepage/banner-assets/03/1.webp";
 import KupalBanner from '../../component/kupal-banner/banner1';
 
 

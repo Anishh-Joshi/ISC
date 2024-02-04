@@ -1,6 +1,6 @@
 import React from 'react'
 import Avatar from '../../assets/logos/avatar.jpg'
-import { BsDiscord, BsFacebook, BsGithub, BsInstagram, BsLinkedin, BsTwitter } from 'react-icons/bs'
+import { BsFacebook, BsGithub, BsInstagram, BsLinkedin, BsTwitter } from 'react-icons/bs'
 
 function Footer() {
     return (
