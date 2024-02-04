@@ -1,5 +1,5 @@
 import React from 'react'
-import { FaProjectDiagram, FaQuoteLeft } from 'react-icons/fa';
+import { FaProjectDiagram } from 'react-icons/fa';
 import Applications from '../../component/scrollable-view';
 import Kupal1 from "../../assets/screenshots/kupallogin.png";
 import Kupal2 from "../../assets/screenshots/kupaltimeline.png";
@@ -66,7 +66,6 @@ function Projects() {
                     "Following/Unfollowing: Enable users to follow or unfollow other users, enhancing social connections",
                     "Privacy settings: Provide customizable privacy settings for user profiles",
                     "Activity log: Maintain a record of user interactions and engagements on the platform"
-                    // Add more features as needed
                 ]
             },
             insides3: {
@@ -81,7 +80,6 @@ function Projects() {
                     "Total comments: Show the total number of comments received for each post",
                     "Featured comment: Highlight one comment to provide additional context or emphasis",
                     "Engagement metrics: Showcase the popularity of posts through likes and comments"
-                    // Add more features as needed
                 ]
             }
         },
@@ -97,7 +95,6 @@ function Projects() {
                     "Find nearest psychiatrist: Assist users in locating the nearest psychiatrist",
                     "One-to-one chat: Facilitate private one-to-one conversations between users and mental health professionals",
                     "DASS21 test: Integrated Depression, Anxiety, and Stress Scale for predicting depression"
-                    // Add more features as needed
                 ]
             },
             insides2: {
@@ -110,7 +107,6 @@ function Projects() {
                     "Log tracking: Keep a record of user activities and interactions",
                     "Visible colors: Represent log entries using visually distinguishable colors",
                     "Sentiment analysis: Analyze the sentiment of mental health logs and mark them with different colors"
-                    // Add more features as needed
                 ]
             },
             insides3: {
@@ -123,7 +119,6 @@ function Projects() {
                     "Score analysis: Analyze and interpret mental health scores",
                     "Score comparison: Compare mental health scores over time",
                     "Insights: Provide insights into the user's mental well-being based on the analysis"
-                    // Add more features as needed
                 ]
             }
         },
@@ -140,7 +135,6 @@ function Projects() {
                     "Product catalog: Showcase a diverse catalog of footwear products for users to explore",
                     "Secure checkout process: Ensure a secure and seamless checkout experience for users",
                     "Responsive design: Optimize the website for a responsive and user-friendly experience on various devices"
-                    // Add more features as needed
                 ]
             },
             insides2: {
@@ -155,7 +149,6 @@ function Projects() {
                     "Remove items: Allow users to remove unwanted items from their shopping cart",
                     "Subtotal calculation: Display the subtotal based on the items and quantities in the cart",
                     "Proceed to checkout: Provide a seamless transition to the checkout process"
-                    // Add more features as needed
                 ]
             },
             insides3: {
@@ -170,7 +163,6 @@ function Projects() {
                     "Search functionality: Allow users to search for specific footwear products",
                     "Add to cart: Enable users to add desired products to their shopping cart",
                     "User reviews: Display user reviews and ratings for each footwear product"
-                    // Add more features as needed
                 ]
             }
         }

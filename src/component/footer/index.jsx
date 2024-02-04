@@ -40,9 +40,6 @@ function Footer() {
                             <BsFacebook />
                             <span className="sr-only">Facebook</span>
                         </a>
-
-
-
                     </div>
                 </div>
             </div>
